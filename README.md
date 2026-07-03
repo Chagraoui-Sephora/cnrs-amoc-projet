@@ -76,3 +76,9 @@ Un rapport scientifique est disponible *(au format PDF)* dans le dossier "report
   - Quantifier l'influence de la résolution sur les transports de chaleur, de sel et de masse. 
   - Approfondir l'étude de la résolution sur la dynamique de méso-échelle (tourbillons, méandres, énergie cinétique turbulente) et de son influence sur les fronts océaniques.
 
+> Si GitHub ne parvient pas à afficher directement les notebooks ou le rapport PDF, ceux-ci peuvent être consultés via NBViewer ou téléchargé (PDF) à partir des liens ci-dessous :
+>- [Notebook 1 - Analyse des proxies de surface](https://nbviewer.org/github/Chagraoui-Sephora/cnrs-amoc-projet/blob/main/notebooks/01_Analyse_des_proxies_de_surface.ipynb)
+>- [Notebook 2 - Impact de la résolution spatiale](https://nbviewer.org/github/Chagraoui-Sephora/cnrs-amoc-projet/blob/main/notebooks/02_Impact_de_la_resolution_spatiale.ipynb)
+>- [Notebook 3 - Conclusion](https://nbviewer.org/github/Chagraoui-Sephora/cnrs-amoc-projet/blob/main/notebooks/03_Conclusion.ipynb)
+
+>- [Rapport scientifique PDF](https://github.com/Chagraoui-Sephora/cnrs-amoc-projet/raw/main/report/Rapport_projet_amoc_cnrs.pdf)
