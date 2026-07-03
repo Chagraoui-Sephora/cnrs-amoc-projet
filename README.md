@@ -16,7 +16,7 @@ Pour répondre à cette problématique, l’étude s’articule autour de trois 
 - Quel est l’impact de la résolution sur la fréquence des gradients de surface les plus intenses ?
 
 ## Organisation du projet
-AJOUTER IMAGE 
+![Organisation du projet](figures/workflow.png)
 
 Ce schéma présente la démarche scientifique suivie dans ce projet, depuis le prétraitement des données GLORYS12V1 jusqu’à l’évaluation de l’impact de la résolution spatiale sur la représentation du Gulf Stream. Les méthodes, les résultats et les analyses détaillés sont présentés dans le rapport scientifique cf. *"report/"*.
 
@@ -52,7 +52,7 @@ L'ensemble des codes ainsi qu'une analyse concise, sont également disponibles d
 ## Structure du Github 
 Le projet est organisé de manière à séparer les données, les notebooks, les figures et le rapport scientifique afin de faciliter la compréhension projet.
 
-AJOUTER IMAGE 
+<p align="center"> <img src="figures/Structure_Github.png" alt="workflow du projet" width="400"> </p>
 
 >**RMQ:**
 >Le projet ne contient pas de partie data en raison de leur volume important, Elles sont disponible gratuitement sur le portail Copernicus Marine et peuvent être téléchargées en suivant les paramètres decrits dans *Méthode*.
