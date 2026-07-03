@@ -8,7 +8,7 @@ Ce projet exploratoire a été réalisé de manière autonome afin de me familia
 L’Atlantic Meridional Overturning Circulation (AMOC) est un système majeur de courants océaniques qui redistribue la chaleur, le sel et les masses d’eau à l’échelle de l’Atlantique. Sa représentation dans les modèles numériques dépend fortement de la résolution spatiale, qui conditionne la capacité à représenter les fronts océaniques et les structures de méso-échelle, rendant leur identification, leur caractérisation et leur suivi plus difficiles.
 
 ## Objectifs
-Ce projet vise à repondre à la problematique suivante : **Que révèlent les proxies de surface SST, SSS et SSH sur les structures de circulation de l’Atlantique Nord, et dans quelle mesure la résolution spatiale influence-t-elle leur représentation dans la région du Gulf Stream ?**
+Ce projet vise à répondre à la problématique suivante : **Que révèlent les proxies de surface SST, SSS et SSH sur les structures de circulation de l’Atlantique Nord, et dans quelle mesure la résolution spatiale influence-t-elle leur représentation dans la région du Gulf Stream ?**
 
 Pour répondre à cette problématique, l’étude s’articule autour de trois questions :
 - Dans quelle mesure une diminution de la résolution spatiale atténue-t-elle les fronts océaniques ?
